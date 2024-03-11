@@ -7,6 +7,8 @@ TagManager:
   - CinemachineTarget
   - TrashBag
   - PushObstacle
+  - RitualMan
+  - EndPortal
   layers:
   - Default
   - TransparentFX
